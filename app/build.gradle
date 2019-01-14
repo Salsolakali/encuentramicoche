@@ -34,4 +34,6 @@ dependencies {
 
     // MAP BOX
     implementation 'com.mapbox.mapboxsdk:mapbox-android-sdk:7.0.0'
+
+    implementation 'com.karumi:dexter:5.0.0'
 }
